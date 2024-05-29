@@ -3141,8 +3141,7 @@
                         "description": "Included in case of success. The result of the execution",
                         "type": "array",
                         "items": {
-                            "format": "byte",
-                            "type": "string"
+                            "type": "number"
                         }
                     },
                     "Error": {
